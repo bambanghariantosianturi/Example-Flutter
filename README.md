@@ -6,6 +6,7 @@ A new Flutter application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-<video width="320" height="240" controls>
-  <source src="Video Flutter2.wmv" type="video/wmv">
+<video width="320" height="200" controls preload> 
+    <source src="Video Flutter2.wmv.mp4"></source> 
+    <source src="Video Flutter2.wmv.webm"></source> 
 </video>
