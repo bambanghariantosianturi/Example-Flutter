@@ -6,4 +6,4 @@ A new Flutter application.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-![Video\n](https://github.com/bambanghariantosianturi/Example-Flutter/blob/master/Video%20Flutter2.wmv)
+[documentation](https://github.com/bambanghariantosianturi/Example-Flutter/blob/master/Video%20Flutter2.wmv)
